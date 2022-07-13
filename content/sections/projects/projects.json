@@ -1,0 +1,74 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "🚀 PRODUCT MANAGER",
+      "title": "Zing",
+      "description": "An all-in-one web interface for professors to create optimal groups for class projects based on students’ study preferences. Our product also supports the Learning Strategies Center program, matching students together for study partners.",
+      "tags": ["Agile", "Edtech", "React"],
+      "image": {
+        "src": "../../images/zing.png",
+        "alt": "Zing Product",
+        "linkTo": "https://www.cornelldti.org/projects/zing"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/cornell-dti/zing-lsc/"
+        },
+        {
+          "type": "external",
+          "url": "https://zing-lsc-prod.web.app/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🧰 Developer",
+      "title": "Pollen",
+      "description": "A PWA developed for Cornell's Playful Plants division. Personalizes suggestions for plants based on a customization quiz.",
+      "tags": ["PWA", "App", "Vue.js"],
+      "image": {
+        "src": "../../images/pollen.png",
+        "alt": "Pollen Product",
+        "linkTo": "https://velocirapptors-pollen.herokuapp.com/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.coecis.cornell.edu/info4340-2022sp/velocir-app-tors-project"
+        },
+        {
+          "type": "external",
+          "url": "https://velocirapptors-pollen.herokuapp.com/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🧰 Developer",
+      "title": "Lambda!",
+      "description": "A multi-dimensional visual analyzer of your top Spotify tracks. Creates a personalized animation of your listening history and its overall energy, valence, and tempo. Calculates an average sentiment score of the lyrics across your top tracks.",
+      "tags": ["Datavis", "Machine learning", "Spotify API"],
+      "image": {
+        "src": "../../images/lambda.jpeg",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/apumaparna/pennapps-2020"
+        },
+        {
+          "type": "external",
+          "external": "https://penn-2020.glitch.me/index.html"
+        }
+      ]
+    }
+  ],
+  "button": {
+    "visible": false,
+    "label": "Visit on Github",
+    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+  }
+}

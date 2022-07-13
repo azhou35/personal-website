@@ -1,0 +1,66 @@
+{
+  "interests": [
+    {
+      "label": "Slam poetry",
+      "image": {
+        "src": "../../images/joystick.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Food journalism",
+      "image": {
+        "src": "../../images/notebook.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Curated Spotify playlists",
+      "image": {
+        "src": "../../images/nail-polish.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Functional food trends",
+      "image": {
+        "src": "../../images/medium.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Photography",
+      "image": {
+        "src": "../../images/gem-stone.png",
+        "alt": "",
+        "link": "https://www.behance.net/gallery/148043715/Photo-Portfolio"
+      }
+    },
+    {
+      "label": "Indie games",
+      "image": {
+        "src": "../../images/mobile-phone.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Moral philosophy",
+      "image": {
+        "src": "../../images/gatsby.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Functional food trends",
+      "image": {
+        "src": "../../images/high-voltage.png",
+        "alt": ""
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 5
+  }
+}

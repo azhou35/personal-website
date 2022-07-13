@@ -1,0 +1,22 @@
+{
+  "intro": "Hey, I'm Annie!",
+  "heroPhoto": {
+    "src": "../../images/lego-dummy.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "",
+  "subtitle": {
+    "prefix": "I'm passionate about",
+    "highlight": "  people, processes, and products",
+    "suffix": "."
+  },
+  "description": "Currently seeking product manager internships, particularly in the fintech or education space.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Twitter", "Mail"],
+    "showIcons": true
+  }
+}
